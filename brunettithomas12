@@ -3,4 +3,5 @@ Thomas Brunetti
 Getting to know Atom and its features
 .editor {
     font-weight: bold; 
-<h2>This is  H2 heading 2</h2>
+<h2>This is  H2 heading </h2>
+<h4>This is H4 heading 4</h4>
